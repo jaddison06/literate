@@ -1,0 +1,59 @@
+# This is a heading
+
+## subheading
+- Bullet item 1
+- Bullet item 2
+- Bullet item 3
+
+## subheading with id
+
+*italic*
+**bold**
+
+something.c
+
+bollock
+```
+int bollock() {
+   return 70 - 1; 
+}
+```
+
+something.c, after bollock
+
+bollock2
+```
+void bollock2() {}
+```
+
+something-else.c
+
+bollock
+```
+void bollock() {}
+```
+
+something.c, after bollock
+
+bollock3
+```
+void bollock3() {
+    char* boobs = "(.) (.)";
+}
+```
+
+something-else.c
+
+bollockBum
+```
+void bollockBum() {}
+```
+
+something.c
+
+bollock3
+```
+void bollock3() {
+    char* suicideNote = "conceptualise this, you faggot!";
+}
+```
